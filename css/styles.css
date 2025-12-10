@@ -27,6 +27,7 @@ header {
 /* Main - Mis proyectos*/
 .carousel-img {
     height: 20rem;
+    object-fit: cover;
 }
 
 /* Footer */
@@ -38,9 +39,6 @@ footer {
     background-repeat: no-repeat;
 }
 
-.oscurecer-footer {
-    background-color: rgba(0, 0, 0, 0.66);
-}
 
 .logo-footer {
     width: 3.5rem;
